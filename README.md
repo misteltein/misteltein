@@ -11,6 +11,41 @@
 - PHP(２０ じかんくらい)
 
 つくったもの：
-- メトロポリス・モンテカルロ法を使って生体膜の形状をサンプリングするやつ(C++)
-- ゲルの計算とかするやつ（C++）
-- 講義資料とかのせるじぶんのウェブサイト（javascript, Vue.js）
+- メトロポリス・モンテカルロ<ruby>
+<rb>法</rb>
+<rp>（</rp>
+<rt>ほう</rt>
+<rp>）</rp>
+</ruby>を<ruby>
+<rb>使</rb>
+<rp>（</rp>
+<rt>つか</rt>
+<rp>）</rp>
+</ruby>って<ruby>
+<rb>生体膜</rb>
+<rp>（</rp>
+<rt>せいたいまく</rt>
+<rp>）</rp>
+</ruby>の<ruby>
+<rb>形状</rb>
+<rp>（</rp>
+<rt>けいじょう</rt>
+<rp>）</rp>
+</ruby>をサンプリングするやつ(C++)
+- ゲルの<ruby>
+<rb>計算</rb>
+<rp>（</rp>
+<rt>けいさん</rt>
+<rp>）</rp>
+</ruby>とかするやつ（C++）
+- <ruby><rb>講義資料</rb><rp>（</rp><rt>こうぎしりょう</rt><rp>）</rp></ruby>を<ruby>
+<rb>載</rb>
+<rp>（</rp>
+<rt>の</rt>
+<rp>）</rp>
+</ruby>せる<ruby>
+<rb>自分</rb>
+<rp>（</rp>
+<rt>じぶん</rt>
+<rp>）</rp>
+</ruby>のウェブサイト（javascript, Vue.js）

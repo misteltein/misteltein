@@ -54,6 +54,6 @@
 <rp>（</rp>
 <rt>じぶん</rt>
 <rp>）</rp>
-</ruby>のウェブサイト（javascript, Vue.js）
+</ruby>のウェブサイト（JavaScript, Vue.js）
 
 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 🍓 

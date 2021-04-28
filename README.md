@@ -1,6 +1,7 @@
 **Hi there 🍓**
 
-<img width="983" alt="ichigo" src="https://user-images.githubusercontent.com/36974933/116362104-a97d5700-a83c-11eb-8945-7e99d85d4e46.png">
+<img width="985" alt="ichigo" src="https://user-images.githubusercontent.com/36974933/116362903-899a6300-a83d-11eb-86c1-5c28de66e8e4.png">
+
 
 げんご：
 - C++ (７０００ じかんくらい)

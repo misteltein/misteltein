@@ -16,7 +16,7 @@
 ## げんご（やったじかん）：
 - C++（７０００ じかんくらい）
 - C（１００ じかんくらい）
-- JavaScript, Vue.js（２００ じかんくらい）
+- JavaScript, Vue.js, React.js（３００ じかんくらい）
 - Python（１００ じかんくらい）
 - PHP, Laravel（２０ じかんくらい）
 - Scratch（２００ じかんくらい）

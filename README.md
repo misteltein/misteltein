@@ -13,7 +13,7 @@
 <rp>）</rp></figcaption>
 </figure>
 
-## げんご（やったじかん）：
+## げんごなど（やったじかん）：
 - C++（７０００ じかんくらい）
 - C（１００ じかんくらい）
 - JavaScript, Vue.js, React.js（３００ じかんくらい）
